@@ -1,4 +1,5 @@
-The changes are commited without any issues
+
 # GitHubLearner
-# I'll do it , if anyone can do I can also do
-## There is nothing to worry.
+# This is my starting point in github 
+## one day I'll become champion
+
